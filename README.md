@@ -19,6 +19,6 @@
 ### 🛠 Tech Stack:
 ```yaml
 💻 Languages:        HTML, CSS, JavaScript, PHP
-🧰 Frameworks:       React.js, Next.js, Laravel (basic), Bootstrap, Tailwind CSS
-🛢️ Databases:        MySQL, Firebase
-⚙️ Tools:            Git, GitHub, VS Code, Postman
+🧰 Frameworks:       React.js, Laravel, Bootstrap
+🛢️ Databases:         MySQL
+⚙️ Tools:            Git, GitHub, VS Code
