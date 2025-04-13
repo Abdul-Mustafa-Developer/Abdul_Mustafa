@@ -20,5 +20,5 @@
 ```yaml
 💻 Languages:        HTML, CSS, JavaScript, PHP
 🧰 Frameworks:       React.js, Laravel, Bootstrap
-🛢️ Databases:         MySQL
+🛢️ Databases:        MySQL
 ⚙️ Tools:            Git, GitHub, VS Code
