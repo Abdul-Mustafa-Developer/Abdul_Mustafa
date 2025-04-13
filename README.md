@@ -7,6 +7,8 @@
 
 ---
 
+<p align="center"> <a href="https://postimg.cc/WF15WQX6" target="_blank"> <img src="https://i.postimg.cc/63dF3KZS/portfolio1.png" width="45%" style="margin-right:10px;" /> </a> <a href="https://postimg.cc/qhDj9jFf" target="_blank"> <img src="https://i.postimg.cc/kGqzRHF5/portfolio2.png" width="45%" /> </a> </p> <p align="center"> <a href="https://postimg.cc/CnZmYbyR" target="_blank"> <img src="https://i.postimg.cc/2yGJQx27/portfolio3.png" width="45%" style="margin-right:10px;" /> </a> <a href="https://postimg.cc/Btthxf8J" target="_blank"> <img src="https://i.postimg.cc/pVJgM2R5/portfolio4.png" width="45%" /> </a> </p>
+
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working at **SkySoft Tech**
 - 🌱 I’m learning **Next.js, TypeScript & APIs**
