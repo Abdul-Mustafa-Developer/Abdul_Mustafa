@@ -7,6 +7,16 @@
 
 ---
 
+
+### 👨‍💻 About Me:
+- 🔭 I’m currently working at **SkySoft Tech**
+- 🌱 I’m learning **Next.js, TypeScript & APIs**
+- 💬 Ask me about **JavaScript, PHP, React, Bootstrap CSS**
+- 💼 Open to **freelance and remote** opportunities
+- 📫 Reach me at: **developerabdulmustafa@gmail.com**
+
+---
+
 ### 📸 Portfolio Snapshots
 
 <p align="center">
@@ -26,14 +36,6 @@
     <img src="https://i.postimg.cc/pVJgM2R5/portfolio4.png" width="45%" />
   </a>
 </p>
-
-
-### 👨‍💻 About Me:
-- 🔭 I’m currently working at **SkySoft Tech**
-- 🌱 I’m learning **Next.js, TypeScript & APIs**
-- 💬 Ask me about **JavaScript, PHP, React, Bootstrap CSS**
-- 💼 Open to **freelance and remote** opportunities
-- 📫 Reach me at: **developerabdulmustafa@gmail.com**
 
 ---
 
